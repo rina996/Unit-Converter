@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversions">
+        <item>Temperature</item>
+        <item>Distance</item>
+    </string-array>
+    <string-array name="tempUnits">
+        <item>Celsius</item>
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="distUnits">
+        <item>Centimeters</item>
+        <item>Inches</item>
+    </string-array>
+</resources>
